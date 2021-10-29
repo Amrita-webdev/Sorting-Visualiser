@@ -1,0 +1,34 @@
+body{
+	background-color: rgb(43, 17, 46);
+	font-family: 'Roboto', sans-serif;
+}
+h1{
+	text-align: center;
+	color: beige;
+}
+.algo-buttons{
+	text-align: center;
+	align-items: center;
+	margin: auto;
+	width: 50%;
+	padding: 10px;
+}
+button{
+	padding: 0.5rem;
+	margin: 1.5rem;
+	border: none;
+	border-radius: 0.5rem;
+	background-color: burlywood;
+	font-style: bold;
+}
+#particles-js{
+	height: 20rem;
+}
+button:hover{
+	cursor: pointer;
+	background-color: rgb(70, 130, 187);
+}
+.paragraph{
+	color: beige;
+	font-family: 'Roboto';
+}
